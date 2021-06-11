@@ -1,6 +1,6 @@
 {
   "name": "ca-template-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create-any template for typescipt",
   "main": "dist/index.js",
   "files": [
