@@ -1,5 +1,3 @@
-const greeting = (name: string) => {
+export default function greeting(name: string) {
   return `Hello, ${name}!`
 }
-// eslint-disable-next-line no-console
-console.log(greeting('World'))

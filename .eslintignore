@@ -1,2 +1,4 @@
-build
-public
+/*.*.js
+/build
+/public
+/dist
